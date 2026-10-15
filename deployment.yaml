@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: bookstore-app
-        image: boopathi0499/online-bookstore:latest
+        image: boopathi0499/bookstore-deployment:latest
         ports:
         - containerPort: 80
         resources:
